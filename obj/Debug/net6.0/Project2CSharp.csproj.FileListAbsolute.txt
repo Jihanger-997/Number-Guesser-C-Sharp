@@ -1,0 +1,15 @@
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\bin\Debug\net6.0\Project2CSharp.exe
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\bin\Debug\net6.0\Project2CSharp.deps.json
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\bin\Debug\net6.0\Project2CSharp.runtimeconfig.json
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\bin\Debug\net6.0\Project2CSharp.dll
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\bin\Debug\net6.0\Project2CSharp.pdb
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\Project2CSharp.csproj.AssemblyReference.cache
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\Project2CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\Project2CSharp.AssemblyInfoInputs.cache
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\Project2CSharp.AssemblyInfo.cs
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\Project2CSharp.csproj.CoreCompileInputs.cache
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\Project2CSharp.dll
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\refint\Project2CSharp.dll
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\Project2CSharp.pdb
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\Project2CSharp.genruntimeconfig.cache
+C:\Users\jihad\OneDrive\Área de Trabalho\Uni\CSCI-351 Concepts of Programming Languages\Projects\Project2CSharp\obj\Debug\net6.0\ref\Project2CSharp.dll

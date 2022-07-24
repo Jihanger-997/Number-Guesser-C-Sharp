@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jihad\\OneDrive\\Área de Trabalho\\Uni\\CSCI-351 Concepts of Programming Languages\\Projects\\Project2CSharp\\Project2CSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jihad\\OneDrive\\Área de Trabalho\\Uni\\CSCI-351 Concepts of Programming Languages\\Projects\\Project2CSharp\\Project2CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jihad\\OneDrive\\Área de Trabalho\\Uni\\CSCI-351 Concepts of Programming Languages\\Projects\\Project2CSharp\\Project2CSharp.csproj",
+        "projectName": "Project2CSharp",
+        "projectPath": "C:\\Users\\jihad\\OneDrive\\Área de Trabalho\\Uni\\CSCI-351 Concepts of Programming Languages\\Projects\\Project2CSharp\\Project2CSharp.csproj",
+        "packagesPath": "C:\\Users\\jihad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jihad\\OneDrive\\Área de Trabalho\\Uni\\CSCI-351 Concepts of Programming Languages\\Projects\\Project2CSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jihad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
